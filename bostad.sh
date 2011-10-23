@@ -11,7 +11,7 @@ else
     echo "Det finns bostad hos http://www.graflunds.se/vara-lagenheter/lediga-laegenheter/linkoeping"
 ) | sendmail -t rovanion.luckey@gmail.com
     
-    echo LÃ¤GENHET!
+    echo LÄGENHET!
 fi
 
 rm temp
