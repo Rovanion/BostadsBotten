@@ -1,0 +1,1 @@
+A very simple script pulling a website from the internet and matching it against a previous sample. If there's a mismatch suggesting that an appartment has been listed an email will be sent.
